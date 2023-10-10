@@ -1,0 +1,97 @@
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split
+from sklearn.feature_selection import mutual_info_classif
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.linear_model import LogisticRegression
+url = "https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/chapter-02-car-price/data.csv"
+data = pd.read_csv(url)
+columns_of_interest = [
+    'Make', 'Model', 'Year', 'Engine HP', 'Engine Cylinders',
+    'Transmission Type', 'Vehicle Style', 'highway MPG', 'city mpg', 'MSRP'
+]
+data = data[columns_of_interest]
+# Lowercase the column names and replace spaces with underscores
+data.columns = data.columns.str.lower().str.replace(' ', '_')
+# Fill missing values with 0
+data.fillna(0, inplace=True)
+# Create the binary target variable 'above_average'
+average_msrp = data['msrp'].mean()
+data['above_average'] = (data['msrp'] > average_msrp).astype(int)
+df_full_train, df_test = train_test_split(data, test_size=0.2, random_state=1)
+df_train, df_val = train_test_split(df_full_train, test_size=0.25, random_state=1)
+# Print the shapes of the resulting datasets
+print("Train data shape:", df_train.shape)
+print("Validation data shape:", df_val.shape)
+print("Test data shape:", df_test.shape)
+from sklearn.metrics import roc_auc_score
+import pandas as pd
+# Calculate ROC AUC for engine_hp
+auc_engine_hp = roc_auc_score(df_train['above_average'], df_train['engine_hp'])
+
+# Calculate ROC AUC for engine_cylinders
+auc_engine_cylinders = roc_auc_score(df_train['above_average'], df_train['engine_cylinders'])
+
+# Calculate ROC AUC for highway_mpg
+auc_highway_mpg = roc_auc_score(df_train['above_average'], df_train['highway_mpg'])
+
+# Calculate ROC AUC for city_mpg
+auc_city_mpg = roc_auc_score(df_train['above_average'], df_train['city_mpg'])
+# Invert variables if AUC < 0.5
+if auc_engine_hp < 0.5:
+    auc_engine_hp = -auc_engine_hp
+
+if auc_engine_cylinders < 0.5:
+    auc_engine_cylinders = -auc_engine_cylinders
+
+if auc_highway_mpg < 0.5:
+    auc_highway_mpg = -auc_highway_mpg
+
+if auc_city_mpg < 0.5:
+    auc_city_mpg = -auc_city_mpg
+# Perform one-hot encoding using DictVectorizer
+dict_vectorizer = DictVectorizer(sparse=False)
+features = [
+    'make', 'model', 'year', 'engine_hp', 'engine_cylinders',
+    'transmission_type', 'vehicle_style', 'highway_mpg', 'city_mpg'
+]
+target = 'above_average'
+X_train = dict_vectorizer.fit_transform(df_train[features].to_dict(orient='records'))
+X_validation = dict_vectorizer.transform(df_val[features].to_dict(orient='records'))
+# Initialize and train the logistic regression model
+model = LogisticRegression(solver='liblinear', C=1.0, max_iter=1000)
+model.fit(X_train, df_train[target])
+# Predict probabilities on the validation set
+validation_pred_probs = model.predict_proba(X_validation)[:, 1]
+# Calculate the AUC on the validation dataset
+auc = roc_auc_score(validation_data[target], validation_pred_probs)
+# Round the AUC to 3 digits
+rounded_auc = round(auc, 3)
+# Print the rounded AUC
+print("AUC on the validation dataset:", rounded_auc)
+thresholds = np.arange(0.0, 1.01, 0.01)
+precision_scores = []
+recall_scores = []
+for threshold in thresholds:
+    # Apply the threshold to the predicted probabilities
+    predicted_labels = (validation_pred_probs >= threshold).astype(int)
+    
+    # Compute precision and recall for the current threshold
+    precision = precision_score(validation_data[target], predicted_labels)
+    recall = recall_score(validation_data[target], predicted_labels)
+    
+    # Append precision and recall values to the lists
+    precision_scores.append(precision)
+    recall_scores.append(recall)
+# Plot precision and recall curves
+plt.figure(figsize=(8, 5))
+plt.plot(thresholds, precision_scores, label='Precision', color='blue')
+plt.plot(thresholds, recall_scores, label='Recall', color='green')
+plt.xlabel('Threshold')
+plt.ylabel('Score')
+plt.title('Precision and Recall vs. Threshold')
+plt.legend()
+plt.grid(True)
