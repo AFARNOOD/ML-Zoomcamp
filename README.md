@@ -1,11 +1,20 @@
 # Machine Learning Zoomcamp
-Winter 2023
-
-![Alt text](https://github.com/AFARNOOD/BIXI_2022-Project/blob/main/imgs/Picture1.jpg)
 
 
-## 1. Introduction
+![Alt text](https://secure.meetupstatic.com/photos/event/c/0/e/f/600_501229391.jpeg)
 
-BIXI, Montreal's bike-sharing system, is a convenient and sustainable mode of transportation for many residents and visitors. This capstone project aims to analyze the patterns of BIXI bike trips and investigate how climate factors, especially temperature, influence users' decisions in utilizing this service.
 
-## 2. Objective
+## Introduction
+
+I took this course in winter 2023. This course was held by DataTalks.Club.
+
+## Syllabus
+<br>- Introduction to Machine Learning
+<br>- Machine Learning for Regression
+<br>- Machine Learning for Classification
+<br>- Evaluation Metrics for Classification
+<br>- Deploying Machine Learning Models
+<br>- Decision Trees and Ensemble Learning
+<br>- Neural Networks and Deep Learning
+<br>- Serverless Deep Learning
+<br>- Kubernetes and TensorFlow Serving
