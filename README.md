@@ -9,7 +9,7 @@
 I took this course in winter 2023. This course was held by DataTalks.Club.
 
 ## Syllabus
-<br>- Introduction to Machine Learning
+- Introduction to Machine Learning
 <br>- Machine Learning for Regression
 <br>- Machine Learning for Classification
 <br>- Evaluation Metrics for Classification
