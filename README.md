@@ -20,3 +20,4 @@ This course was offered in winter 2023. "DataTalks.Club" organized this course.
 <br>- Kubernetes and TensorFlow Serving
 
 ## Covered Subjects
+Session 1: Introduction to Machine Learning
