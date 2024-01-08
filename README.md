@@ -24,3 +24,4 @@ Session 1: Introduction to Machine Learning
 Session 2: Machine Learning for Regression
 Session 3: Machine Learning for Classification
 Session 4: Evaluation Metrics for Classification
+Session 5: Deploying Machine Learning Models
