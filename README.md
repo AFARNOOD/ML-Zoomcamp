@@ -18,3 +18,5 @@ This course was offered in winter 2023. "DataTalks.Club" organized this course.
 <br>- Neural Networks and Deep Learning
 <br>- Serverless Deep Learning
 <br>- Kubernetes and TensorFlow Serving
+
+## Covered Subjects
