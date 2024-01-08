@@ -24,4 +24,4 @@ This course was offered in winter 2023. "DataTalks.Club" organized this course.
 <br> Session 2: Machine Learning for Regression
 <br> Session 3: Machine Learning for Classification
 <br> Session 4: Evaluation Metrics for Classification
-Session 5: Deploying Machine Learning Models
+<br> Session 5: Deploying Machine Learning Models
