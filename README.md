@@ -20,7 +20,7 @@ This course was offered in winter 2023. "DataTalks.Club" organized this course.
 <br>- Kubernetes and TensorFlow Serving
 
 ## Covered Subjects
-Session 1: Introduction to Machine Learning
+<br> Session 1: Introduction to Machine Learning
 Session 2: Machine Learning for Regression
 Session 3: Machine Learning for Classification
 Session 4: Evaluation Metrics for Classification
