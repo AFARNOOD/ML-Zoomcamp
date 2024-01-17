@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This course was offered in winter 2023. "DataTalks.Club" organized this course.
+This course was offered in fall 2023. "DataTalks.Club" organized this course.
 
 ## Syllabus
 <br> - Introduction to Machine Learning
