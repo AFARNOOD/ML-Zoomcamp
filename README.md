@@ -25,7 +25,7 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> Machine Learning for Classification
 <br> Evaluation Metrics for Classification
 <br> Deploying Machine Learning Models
-Decision Trees and Ensemble Learning
-Neural Networks and Deep Learning
-Serverless Deep Learning
-Kubernetes and TensorFlow Serving
+<br> Decision Trees and Ensemble Learning
+<br> Neural Networks and Deep Learning
+<br> Serverless Deep Learning
+<br> Kubernetes and TensorFlow Serving
