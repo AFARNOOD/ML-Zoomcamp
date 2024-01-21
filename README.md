@@ -23,8 +23,8 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> Introduction to Machine Learning
 <br> Machine Learning for Regression
 <br> Machine Learning for Classification
-<br> Session 4: Evaluation Metrics for Classification
-<br> Session 5: Deploying Machine Learning Models
+<br> Evaluation Metrics for Classification
+<br> Deploying Machine Learning Models
 Decision Trees and Ensemble Learning
 Neural Networks and Deep Learning
 Serverless Deep Learning
