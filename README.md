@@ -18,14 +18,3 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br>- Neural Networks and Deep Learning
 <br>- Serverless Deep Learning
 <br>- Kubernetes and TensorFlow Serving
-
-## Covered Subjects
-<br> Introduction to Machine Learning
-<br> Machine Learning for Regression
-<br> Machine Learning for Classification
-<br> Evaluation Metrics for Classification
-<br> Deploying Machine Learning Models
-<br> Decision Trees and Ensemble Learning
-<br> Neural Networks and Deep Learning
-<br> Serverless Deep Learning
-<br> Kubernetes and TensorFlow Serving
