@@ -21,7 +21,7 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 
 <br> - [Module 1: Introduction to Machine Learning](#module1)
 <br> - [Module 2: Machine Learning for Regression](#module2)
-<br> - [Machine Learning for Classification](#module3)
+<br> - [Module 3: Machine Learning for Classification](#module3)
 <br> - [Module 4: Analytics Engineering](#module4)
 <br> - [Module 5: Batch processing](#module5)
 <br> - [Module 6: Batch processing](#module6)
