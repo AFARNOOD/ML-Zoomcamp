@@ -65,28 +65,33 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 3.12 Using the model
 
 ### Module 4: Evaluation Metrics for Classification <a name="module4"></a>
-* Evaluation metrics: session overview
-* Accuracy and dummy model
-* Confusion table
-* Precision and Recall
-* ROC Curves
-* ROC AUC
-* Cross-Validation
+4.1 Evaluation metrics: session overview
+4.2 Accuracy and dummy model
+4.3 Confusion table
+4.4 Precision and Recall
+4.5 ROC Curves
+4.6 ROC AUC
+4.7 Cross-Validation
 
 ### Module 5: Deploying Machine Learning Models <a name="module5"></a>
-* Intro / Session overview
-* Saving and loading the model
-* Web services: introduction to Flask
-* Serving the churn model with Flask
-* Python virtual environment: Pipenv
-* Environment management: Docker
-* Deployment to the cloud: AWS Elastic Beanstalk (optional)
+5.1 Intro / Session overview
+5.2 Saving and loading the model
+5.3 Web services: introduction to Flask
+5.4 Serving the churn model with Flask
+5.5 Python virtual environment: Pipenv
+5.6 Environment management: Docker
+5.7 Deployment to the cloud: AWS Elastic Beanstalk (optional)
 
 ### Module 6: Batch processing <a name="module6"></a>
-* Introduction to Kafka
-* Schemas (avro)
-* Kafka Streams
-* Kafka Connect and KSQL
+6.1 Credit risk scoring project
+6.2 Data cleaning and preparation
+6.3 Decision trees
+6.4 Decision tree learning algorithm
+6.5 Decision trees parameter tuning
+6.6 Ensemble learning and random forest
+6.7 Gradient boosting and XGBoost
+6.8 XGBoost parameter tuning
+6.9 Selecting the best model
 
 ### Module 6: Batch processing <a name="module6"></a>
 * Introduction to Kafka
