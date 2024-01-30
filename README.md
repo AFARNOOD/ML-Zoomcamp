@@ -87,3 +87,12 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 * Schemas (avro)
 * Kafka Streams
 * Kafka Connect and KSQL
+
+### Module 6: Batch processing <a name="module6"></a>
+* Introduction to Kafka
+
+### Module 6: Batch processing <a name="module6"></a>
+* Introduction to Kafka
+
+### Module 6: Batch processing <a name="module6"></a>
+* Introduction to Kafka
