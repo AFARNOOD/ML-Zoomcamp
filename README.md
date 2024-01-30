@@ -93,8 +93,20 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 6.8 XGBoost parameter tuning
 6.9 Selecting the best model
 
-### Module 6: Batch processing <a name="module6"></a>
-* Introduction to Kafka
+### Module 8: Neural Networks and Deep Learning <a name="module6"></a>
+8.1 Fashion classification
+8.1b Setting up the Environment on Saturn Cloud
+8.2 TensorFlow and Keras
+8.3 Pre-trained convolutional neural networks
+8.4 Convolutional neural networks
+8.5 Transfer learning
+8.6 Adjusting the learning rate
+8.7 Checkpointing
+8.8 Adding more layers
+8.9 Regularization and dropout
+8.10 Data augmentation
+8.11 Training a larger model
+8.12 Using the model
 
 ### Module 6: Batch processing <a name="module6"></a>
 * Introduction to Kafka
