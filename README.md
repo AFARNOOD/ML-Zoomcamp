@@ -9,15 +9,6 @@
 This course was offered in fall 2023. "DataTalks.Club" organized this course.
 
 ## Syllabus
-<br> - Introduction to Machine Learning
-<br> - Machine Learning for Regression
-<br> - Machine Learning for Classification
-<br> - Evaluation Metrics for Classification
-<br>- Deploying Machine Learning Models
-<br>- Decision Trees and Ensemble Learning
-<br>- Neural Networks and Deep Learning
-<br>- Serverless Deep Learning
-<br>- Kubernetes and TensorFlow Serving
 
 <br> - [Module 1: Introduction to Machine Learning](#module1)
 <br> - [Module 2: Machine Learning for Regression](#module2)
