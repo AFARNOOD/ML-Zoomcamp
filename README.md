@@ -25,9 +25,9 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> - [Module 4: Evaluation Metrics for Classification](#module4)
 <br> - [Module 5: Deploying Machine Learning Models](#module5)
 <br> - [Module 6: Decision Trees and Ensemble Learning](#module6)
-<br> - [Module 6: Decision Trees and Ensemble Learning](#module7)
-<br> - [Module 6: Decision Trees and Ensemble Learning](#module8)
-<br> - [Module 6: Decision Trees and Ensemble Learning](#module9)
+<br> - [Module 7: Neural Networks and Deep Learning](#module7)
+<br> - [Module 8: Serverless Deep Learning](#module8)
+<br> - [Module 9: Kubernetes and TensorFlow Serving](#module9)
 
 ## Detailed Syllabus
 
