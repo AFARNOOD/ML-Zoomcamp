@@ -23,7 +23,7 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> - [Module 2: Machine Learning for Regression](#module2)
 <br> - [Module 3: Machine Learning for Classification](#module3)
 <br> - [Module 4: Evaluation Metrics for Classification](#module4)
-<br> - [Module 5: Batch processing](#module5)
+<br> - [Module 5: Deploying Machine Learning Models](#module5)
 <br> - [Module 6: Batch processing](#module6)
 <br> - Workshop 2: Stream Processing with SQL
 
@@ -82,12 +82,14 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 * Deployment to the cloud and locally
 * Visualizing the data with google data studio and metabase
 
-### Module 5: Batch processing <a name="module5"></a>
-* Batch processing
-* What is Spark
-* Spark Dataframes
-* Spark SQL
-* Internals: GroupBy and joins
+### Module 5: Deploying Machine Learning Models <a name="module5"></a>
+* Intro / Session overview
+* Saving and loading the model
+* Web services: introduction to Flask
+* Serving the churn model with Flask
+* Python virtual environment: Pipenv
+* Environment management: Docker
+* Deployment to the cloud: AWS Elastic Beanstalk (optional)
 
 ### Module 6: Batch processing <a name="module6"></a>
 * Introduction to Kafka
