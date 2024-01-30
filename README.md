@@ -72,15 +72,14 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 3.11 Model interpretation
 3.12 Using the model
 
-### Module 4: Analytics Engineering <a name="module4"></a>
-* Basics of analytics engineering
-* dbt (data build tool)
-* BigQuery and dbt
-* Postgres and dbt
-* dbt models
-* Testing and documenting
-* Deployment to the cloud and locally
-* Visualizing the data with google data studio and metabase
+### Module 4: Evaluation Metrics for Classification <a name="module4"></a>
+* Evaluation metrics: session overview
+* Accuracy and dummy model
+* Confusion table
+* Precision and Recall
+* ROC Curves
+* ROC AUC
+* Cross-Validation
 
 ### Module 5: Deploying Machine Learning Models <a name="module5"></a>
 * Intro / Session overview
