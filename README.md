@@ -24,8 +24,10 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> - [Module 3: Machine Learning for Classification](#module3)
 <br> - [Module 4: Evaluation Metrics for Classification](#module4)
 <br> - [Module 5: Deploying Machine Learning Models](#module5)
-<br> - [Module 6: Batch processing](#module6)
-<br> - Workshop 2: Stream Processing with SQL
+<br> - [Module 6: Decision Trees and Ensemble Learning](#module6)
+<br> - [Module 6: Decision Trees and Ensemble Learning](#module7)
+<br> - [Module 6: Decision Trees and Ensemble Learning](#module8)
+<br> - [Module 6: Decision Trees and Ensemble Learning](#module9)
 
 ## Detailed Syllabus
 
