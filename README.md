@@ -66,13 +66,13 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 3.12 Using the model
 
 ### Module 4: Evaluation Metrics for Classification <a name="module4"></a>
-4.1 Evaluation metrics: session overview
-4.2 Accuracy and dummy model
-4.3 Confusion table
-4.4 Precision and Recall
-4.5 ROC Curves
-4.6 ROC AUC
-4.7 Cross-Validation
+<br> 4.1 Evaluation metrics: session overview
+<br> 4.2 Accuracy and dummy model
+<br> 4.3 Confusion table
+<br> 4.4 Precision and Recall
+<br> 4.5 ROC Curves
+<br> 4.6 ROC AUC
+<br> 4.7 Cross-Validation
 
 ### Module 5: Deploying Machine Learning Models <a name="module5"></a>
 5.1 Intro / Session overview
