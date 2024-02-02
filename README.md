@@ -94,7 +94,7 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 6.8 XGBoost parameter tuning
 <br> 6.9 Selecting the best model
 
-### Module 8: Neural Networks and Deep Learning <a name="module6"></a>
+### Module 8: Neural Networks and Deep Learning <a name="module8"></a>
 <br> 8.1 Fashion classification
 <br> 8.1b Setting up the Environment on Saturn Cloud
 <br> 8.2 TensorFlow and Keras
