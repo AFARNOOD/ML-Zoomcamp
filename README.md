@@ -120,7 +120,7 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 9.8 Summary
 <br> 9.9 Explore more
 
-### Module 10: Batch processing <a name="module10"></a>
+### Module 10: Kubernetes and TensorFlow Serving <a name="module10"></a>
 <br> 10.1 Overview
 <br> 10.2 TensorFlow Serving
 <br> 10.3 Creating a pre-processing service
