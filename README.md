@@ -75,13 +75,13 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 4.7 Cross-Validation
 
 ### Module 5: Deploying Machine Learning Models <a name="module5"></a>
-5.1 Intro / Session overview
-5.2 Saving and loading the model
-5.3 Web services: introduction to Flask
-5.4 Serving the churn model with Flask
-5.5 Python virtual environment: Pipenv
-5.6 Environment management: Docker
-5.7 Deployment to the cloud: AWS Elastic Beanstalk (optional)
+<br> 5.1 Intro / Session overview
+<br> 5.2 Saving and loading the model
+<br> 5.3 Web services: introduction to Flask
+<br> 5.4 Serving the churn model with Flask
+<br> 5.5 Python virtual environment: Pipenv
+<br> 5.6 Environment management: Docker
+<br> 5.7 Deployment to the cloud: AWS Elastic Beanstalk (optional)
 
 ### Module 6: Batch processing <a name="module6"></a>
 6.1 Credit risk scoring project
