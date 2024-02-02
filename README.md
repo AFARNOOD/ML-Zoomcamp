@@ -84,30 +84,30 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 5.7 Deployment to the cloud: AWS Elastic Beanstalk (optional)
 
 ### Module 6: Batch processing <a name="module6"></a>
-6.1 Credit risk scoring project
-6.2 Data cleaning and preparation
-6.3 Decision trees
-6.4 Decision tree learning algorithm
-6.5 Decision trees parameter tuning
-6.6 Ensemble learning and random forest
-6.7 Gradient boosting and XGBoost
-6.8 XGBoost parameter tuning
-6.9 Selecting the best model
+<br> 6.1 Credit risk scoring project
+<br> 6.2 Data cleaning and preparation
+<br> 6.3 Decision trees
+<br> 6.4 Decision tree learning algorithm
+<br> 6.5 Decision trees parameter tuning
+<br> 6.6 Ensemble learning and random forest
+<br> 6.7 Gradient boosting and XGBoost
+<br> 6.8 XGBoost parameter tuning
+<br> 6.9 Selecting the best model
 
 ### Module 8: Neural Networks and Deep Learning <a name="module6"></a>
-8.1 Fashion classification
-8.1b Setting up the Environment on Saturn Cloud
-8.2 TensorFlow and Keras
-8.3 Pre-trained convolutional neural networks
-8.4 Convolutional neural networks
-8.5 Transfer learning
-8.6 Adjusting the learning rate
-8.7 Checkpointing
-8.8 Adding more layers
-8.9 Regularization and dropout
-8.10 Data augmentation
-8.11 Training a larger model
-8.12 Using the model
+<br> 8.1 Fashion classification
+<br> 8.1b Setting up the Environment on Saturn Cloud
+<br> 8.2 TensorFlow and Keras
+<br> 8.3 Pre-trained convolutional neural networks
+<br> 8.4 Convolutional neural networks
+<br> 8.5 Transfer learning
+<br> 8.6 Adjusting the learning rate
+<br> 8.7 Checkpointing
+<br> 8.8 Adding more layers
+<br> 8.9 Regularization and dropout
+<br> 8.10 Data augmentation
+<br> 8.11 Training a larger model
+<br> 8.12 Using the model
 
 ### Module 6: Batch processing <a name="module6"></a>
 * Introduction to Kafka
