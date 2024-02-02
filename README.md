@@ -121,13 +121,13 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 9.9 Explore more
 
 ### Module 10: Batch processing <a name="module10"></a>
-10.1 Overview
-10.2 TensorFlow Serving
-10.3 Creating a pre-processing service
-10.4 Running everything locally with Docker-compose
-10.5 Introduction to Kubernetes
-10.6 Deploying a simple service to Kubernetes
-10.7 Deploying TensorFlow models to Kubernetes
-10.8 Deploying to EKS
-10.9 Summary
-10.10 Explore more
+<br> 10.1 Overview
+<br> 10.2 TensorFlow Serving
+<br> 10.3 Creating a pre-processing service
+<br> 10.4 Running everything locally with Docker-compose
+<br> 10.5 Introduction to Kubernetes
+<br> 10.6 Deploying a simple service to Kubernetes
+<br> 10.7 Deploying TensorFlow models to Kubernetes
+<br> 10.8 Deploying to EKS
+<br> 10.9 Summary
+<br> 10.10 Explore more
