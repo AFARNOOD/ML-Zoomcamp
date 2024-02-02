@@ -109,8 +109,17 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 8.11 Training a larger model
 <br> 8.12 Using the model
 
-### Module 9: Batch processing <a name="module9"></a>
-* Introduction to Kafka
+### Module 9: Serverless Deep Learning <a name="module9"></a>
+<br> 9.1 Introduction to Serverless
+<br> 9.2 AWS Lambda
+<br> 9.3 TensorFlow Lite
+<br> 9.4 Preparing the code for Lambda
+<br> 9.5 Preparing a Docker image
+<br> 9.6 Creating the lambda function
+<br> 9.7 API Gateway: exposing the lambda function
+<br> 9.8 Summary
+<br> 9.9 Explore more
+<br> 9.10 Homework
 
 ### Module 10: Batch processing <a name="module10"></a>
 * Introduction to Kafka
