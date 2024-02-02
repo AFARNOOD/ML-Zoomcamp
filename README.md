@@ -1,3 +1,4 @@
+
 # Machine Learning Zoomcamp
 
 
@@ -51,18 +52,18 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 2.16 Car price prediction project summary
 
 ### Module 3: Machine Learning for Classification <a name="module3"></a>
-3.1 Churn prediction project
-3.2 Data preparation
-3.3 Setting up the validation framework
-3.4 EDA
-3.5 Feature importance: Churn rate and risk ratio
-3.6 Feature importance: Mutual information
-3.7 Feature importance: Correlation
-3.8 One-hot encoding
-3.9 Logistic regression
-3.10 Training logistic regression with Scikit-Learn
-3.11 Model interpretation
-3.12 Using the model
+<br> 3.1 Churn prediction project
+<br> 3.2 Data preparation
+<br> 3.3 Setting up the validation framework
+<br> 3.4 EDA
+<br> 3.5 Feature importance: Churn rate and risk ratio
+<br> 3.6 Feature importance: Mutual information
+<br> 3.7 Feature importance: Correlation
+<br> 3.8 One-hot encoding
+<br> 3.9 Logistic regression
+<br> 3.10 Training logistic regression with Scikit-Learn
+<br> 3.11 Model interpretation
+<br> 3.12 Using the model
 
 ### Module 4: Evaluation Metrics for Classification <a name="module4"></a>
 4.1 Evaluation metrics: session overview
