@@ -16,9 +16,9 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> - [Module 4: Evaluation Metrics for Classification](#module4)
 <br> - [Module 5: Deploying Machine Learning Models](#module5)
 <br> - [Module 6: Decision Trees and Ensemble Learning](#module6)
-<br> - [Module 7: Neural Networks and Deep Learning](#module7)
-<br> - [Module 8: Serverless Deep Learning](#module8)
-<br> - [Module 9: Kubernetes and TensorFlow Serving](#module9)
+<br> - [Module 8: Neural Networks and Deep Learning](#module8)
+<br> - [Module 9: Serverless Deep Learning](#module9)
+<br> - [Module 10: Kubernetes and TensorFlow Serving](#module10)
 
 ## Detailed Syllabus
 
@@ -94,7 +94,7 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 6.8 XGBoost parameter tuning
 <br> 6.9 Selecting the best model
 
-### Module 7: Neural Networks and Deep Learning <a name="module7"></a>
+### Module 8: Neural Networks and Deep Learning <a name="module8"></a>
 <br> 8.1 Fashion classification
 <br> 8.1b Setting up the Environment on Saturn Cloud
 <br> 8.2 TensorFlow and Keras
@@ -109,8 +109,8 @@ This course was offered in fall 2023. "DataTalks.Club" organized this course.
 <br> 8.11 Training a larger model
 <br> 8.12 Using the model
 
-### Module 8: Batch processing <a name="module8"></a>
+### Module 9: Batch processing <a name="module9"></a>
 * Introduction to Kafka
 
-### Module 9: Batch processing <a name="module9"></a>
+### Module 10: Batch processing <a name="module10"></a>
 * Introduction to Kafka
